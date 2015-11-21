@@ -39,6 +39,6 @@ footer{
   margin: 0 auto;
 }
 
-#header{
-  background-color: grey;
+.navbar{
+  background-color: lightgrey;
 }
