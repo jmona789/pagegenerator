@@ -2,3 +2,43 @@ footer{
   position: fixed;
   bottom:0;
 }
+
+.btn-primary{
+  display: table;
+  margin: 0 auto;
+}
+
+#footerImg{
+  height: 35px;
+  display: table;
+  margin: 0 auto;
+}
+
+#footerParagraph{
+  height:21px;
+  font-size: 4px;
+  display: table;
+  margin: 0 auto;
+}
+
+#footerHeader{
+  margin:0;
+  display: table;
+  margin: 0 auto;
+}
+
+#footerOrderderList{
+  font-size: 10px;
+  width: 80px;
+  display: table;
+  margin: 0 auto;
+}
+
+#footerInput{
+  display: table;
+  margin: 0 auto;
+}
+
+#header{
+  background-color: grey;
+}
